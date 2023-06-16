@@ -1,0 +1,19 @@
+.addtodo{
+    background-color: beige;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.addtodo form{
+    border: none;
+}
+.addtodo input{
+    width:200px;
+    height: 100px;
+}
+.title input {
+  height: 50px;
+}

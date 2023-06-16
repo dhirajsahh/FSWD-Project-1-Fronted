@@ -1,0 +1,11 @@
+.Home{
+    display: flex;
+    background-color: rgba(224, 247, 247, 0.881);
+    justify-content: space-around;
+    align-items: center;
+    height: 600px;
+   
+}
+.Home h2{
+    color:rgb(236, 167, 167);
+}
